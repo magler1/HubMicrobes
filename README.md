@@ -9,4 +9,8 @@ Scripts composed by Matthew Agler
 
 agler@mpipz.mpg.de
 
-to reproduce the analysis, first download and extract the data from:
+to reproduce the figures:
+1. first download and extract the data from:
+
+2. Read the Readme_FigureX.txt files for steps to complete for each figure
+
