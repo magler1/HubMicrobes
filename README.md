@@ -11,7 +11,9 @@ agler@mpipz.mpg.de
 
 to reproduce the figures:
 
-1. first download and extract the data from:
+1. first download and extract the data from (scripts are redundantly located in the downloaded files as well):
+
+http://bioinfo.mpipz.mpg.de/download/HubMicrobes_Scripts/
 
 2. Read the Readme_FigureX.txt files for steps to complete for each figure
 
